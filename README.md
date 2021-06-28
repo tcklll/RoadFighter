@@ -10,6 +10,8 @@ pip install cmake
 
 git clone https://github.com/tcklll/RoadFighter.git
 
+cd RoadFighter
+
 cd retro
 
 pip install -e .
