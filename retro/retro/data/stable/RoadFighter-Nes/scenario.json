@@ -1,0 +1,15 @@
+{
+  "done": {
+    "variables": {
+      "time": {
+        "op": "zero"
+      }
+    }
+  },
+  "reward": {
+    "script": "lua:reward"
+  },
+  "scripts": [
+    "script.lua"
+  ]
+}
